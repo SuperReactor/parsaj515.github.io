@@ -1,0 +1,1 @@
+have all games self-hosted on the github.io, and have index.html in each folder, like ../uuid/index.html would go to parsaj515.github.io/uuid and it would be better so you dont have to enter .html on each file page. Good page though, jamali!
